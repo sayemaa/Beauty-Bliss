@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Patricia Lebsack",
+        "picture": "https://images.unsplash.com/photo-1582610285985-a42d9193f2fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=50&q=80",
+        "post": "Good quality and service.",
+        "ratings": "5/5"
+    },
+    {
+        "id": "2",
+        "name": "Glenna Reichert",
+        "picture": "https://images.unsplash.com/photo-1604072366595-e75dc92d6bdc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=50&q=80",
+        "post": "Easy access to beauty products in a reasonable price.",
+        "ratings": "5/5"
+    },
+    {
+        "id": "3",
+        "name": "Clementine Bauch",
+        "picture": "https://images.unsplash.com/photo-1484588168347-9d835bb09939?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=50&q=80",
+        "post": "Best quality products and good service.",
+        "ratings": "4.5/5"
+    },
+    {
+        "id": "4",
+        "name": "Samantha Kamren",
+        "picture": "https://images.unsplash.com/photo-1481824429379-07aa5e5b0739?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=50&q=80",
+        "post": "Love the quality of the products.",
+        "ratings": "4/5"
+    },
+    {
+        "id": "5",
+        "name": "Chelsey Dietrich",
+        "picture": "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=50&q=80",
+        "post": "I love shopping from here.",
+        "ratings": "5/5"
+    },
+    {
+        "id": "6",
+        "name": "Clementina DuBuque",
+        "picture": "https://images.unsplash.com/photo-1605406575497-015ab0d21b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=50&q=80",
+        "post": "Amazing products and delivery process.",
+        "ratings": "4.5/5"
+    }
+]

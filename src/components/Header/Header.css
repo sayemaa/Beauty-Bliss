@@ -1,0 +1,11 @@
+.nav-title{
+    font-size: 22px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-links {
+    text-decoration: none;
+    padding: 7px 10px;
+    margin-right: 15px;
+}

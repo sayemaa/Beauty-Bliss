@@ -1,0 +1,53 @@
+.img-container img{
+    width: 600px;
+    height: 600px;
+}
+
+.home-text-title{
+    font-size: 55px;
+}
+
+.let-your{
+    background-color: rgba(0, 0, 0, 0.873);
+    color: white;
+    padding: 0 15px;
+    border-radius: 5px;
+}
+.beauty-glow{
+    color: rgb(238, 68, 153);
+}
+
+.shop-now-btn{
+    font-weight: bold;
+    padding: 10px 15px;
+    border: 2px solid rgb(238, 68, 153);
+    border-radius: 7px;
+    background-color: white;
+    color: rgb(238, 68, 153);
+}
+
+.shop-now-btn:hover{
+    color: white;
+    background-color:rgb(238, 68, 153);
+}
+
+.reviews-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.see-all-reviews-btn{
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 5px 15px;
+    border: 2px solid rgb(238, 68, 153);
+    border-radius: 7px;
+    background-color: white;
+    color: rgb(238, 68, 153);
+}
+
+.see-all-reviews-btn:hover{
+    color: white;
+    background-color:rgb(238, 68, 153);
+}
