@@ -10,7 +10,7 @@ const Header = () => {
                 <Container className='d-flex justify-content-between'>
                     <Navbar.Brand className='nav-title'>Beauty Bliss</Navbar.Brand>
                     <Nav>
-                        <CustomLink to='/' className='nav-links'>Home</CustomLink>
+                        <CustomLink to='/home' className='nav-links'>Home</CustomLink>
                         <CustomLink to='/review' className='nav-links'>Review</CustomLink>
                         <CustomLink to='/about' className='nav-links'>About</CustomLink>
                     </Nav>
