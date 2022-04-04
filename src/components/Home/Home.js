@@ -5,12 +5,12 @@ import Review from '../Review/Review';
 import './Home.css'
 
 const Home = () => {
-    const [reviews, setReviews] = useReviews();
+    const [reviews] = useReviews();
 
     const navigate = useNavigate();
 
     const seeAllReviews = () => {
-        const path = `/review`;
+        const path = `/reviews`;
         navigate(path);
     }
 
@@ -30,7 +30,7 @@ const Home = () => {
                 <h2>Customer Reviews</h2>
                 <div className='reviews-container container mt-5 '>
                     {
-                        reviews.map(review => <Review key={review.id} review={review}></Review>)
+                        reviews.slice(0, 3).map(review => <Review key={review.id} review={review}></Review>)
                     }
                 </div>
                 <button onClick={seeAllReviews} className='see-all-reviews-btn'>See All Reviews</button>

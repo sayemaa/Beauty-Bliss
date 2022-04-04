@@ -6,12 +6,12 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
-            <Navbar bg="dark" variant="dark">
+            <Navbar bg="dark" variant="dark" sticky='top'>
                 <Container className='d-flex justify-content-between'>
                     <Navbar.Brand className='nav-title'>Beauty Bliss</Navbar.Brand>
                     <Nav>
                         <CustomLink to='/home' className='nav-links'>Home</CustomLink>
-                        <CustomLink to='/review' className='nav-links'>Review</CustomLink>
+                        <CustomLink to='/reviews' className='nav-links'>Reviews</CustomLink>
                         <CustomLink to='/about' className='nav-links'>About</CustomLink>
                     </Nav>
                 </Container>

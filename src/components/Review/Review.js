@@ -8,13 +8,13 @@ const Review = (props) => {
         <Container>
             <Row>
                 <Col className='card shadow mb-3 py-5'>
-                    <div className='d-flex align-items-center'>
+                    <div>
                         <img src={picture} alt="" />
                         <h5>{name}</h5>
                     </div>
-                    <div className='text-start mt-3'>
+                    <div className='text-center mt-2'>
+                        <h6>Ratings: {ratings}</h6>
                         <p>{post}</p>
-                        <p>Ratings: {ratings}</p>
                     </div>
                 </Col>
             </Row>
