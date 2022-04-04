@@ -20,15 +20,14 @@
 .shop-now-btn{
     font-weight: bold;
     padding: 10px 15px;
-    border: 2px solid rgb(238, 68, 153);
+    border: none;
     border-radius: 7px;
-    background-color: white;
-    color: rgb(238, 68, 153);
+    color: white;
+    background-color:rgb(238, 68, 153);
 }
 
 .shop-now-btn:hover{
-    color: white;
-    background-color:rgb(238, 68, 153);
+    background-color:rgb(255, 131, 193);
 }
 
 .reviews-container{
@@ -39,15 +38,14 @@
 
 .see-all-reviews-btn{
     font-weight: bold;
-    margin-top: 15px;
-    padding: 5px 15px;
-    border: 2px solid rgb(238, 68, 153);
+    margin-top: 25px;
+    padding: 8px 15px;
+    border:none;
     border-radius: 7px;
-    background-color: white;
-    color: rgb(238, 68, 153);
+    color: white;
+    background-color:rgb(238, 68, 153);
 }
 
 .see-all-reviews-btn:hover{
-    color: white;
-    background-color:rgb(238, 68, 153);
+    background-color:rgb(255, 131, 193);
 }

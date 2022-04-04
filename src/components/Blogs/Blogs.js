@@ -7,7 +7,7 @@ const Blogs = () => {
             <h2>Frequently Asked Questions</h2>
             <div className='single-faq shadow'>
                 <h5>What is Context API?</h5>
-                <p>Props are typically used to share code from one component to another. However, if we want to share code between the root component and the child component at the very end, props must be provided to each component from the root for that child component to receive that code. An alternate solution to this drawn-out method is to use Context API. Instead of passing props at each level, context is used to transfer data across the component tree. Context is created in the root component and exported to the components we wish to transfer data to.</p>
+                <p>Props are typically used to share code from one component to another. However, if we want to share code between the root component and the child component at the very end, props must be provided to each component from the root for that child component to receive that code. An alternate solution to this drawn-out method is to use Context API. Instead of passing props at each level, context is used to transfer data across the component tree. Context is created in the root component and exported to the components we wish to transfer data.</p>
             </div>
             <div className='single-faq shadow'>
                 <h5>What is Semantic Tag?</h5>
