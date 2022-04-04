@@ -12,6 +12,7 @@ const Header = () => {
                     <Nav>
                         <CustomLink to='/home' className='nav-links'>Home</CustomLink>
                         <CustomLink to='/reviews' className='nav-links'>Reviews</CustomLink>
+                        <CustomLink to='/dashboard' className='nav-links'>Dashboard</CustomLink>
                         <CustomLink to='/about' className='nav-links'>About</CustomLink>
                     </Nav>
                 </Container>

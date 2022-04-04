@@ -2,8 +2,8 @@ import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import './Review.css'
 
-const Review = (props) => {
-    const { name, picture, post, ratings } = props.review;
+const Review = ({ review }) => {
+    const { name, picture, post, ratings } = review;
     return (
         <Container>
             <Row>
