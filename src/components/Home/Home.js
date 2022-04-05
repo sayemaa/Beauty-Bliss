@@ -19,7 +19,7 @@ const Home = () => {
             <div className='home-container d-flex container mx-auto align-items-center mb-5'>
                 <div className="text-container text-start me-5">
                     <h1 className='home-text-title'><span className='let-your'>Let Your </span><br /><span className='beauty-glow'>Beauty Glow</span></h1>
-                    <p>Our goal is to inspire products that are good for your skin. We are committed to curating the best of beauty so that you can glow with our products.</p>
+                    <p>Our goal is to inspire beauty products that are good for your skin. We are committed to curating the best of beauty so that you can glow using our products.</p>
                     <button className='shop-now-btn'>Shop Now</button>
                 </div>
                 <div className="img-container mt-5 ms-4">
